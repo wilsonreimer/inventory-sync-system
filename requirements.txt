@@ -1,7 +1,6 @@
-fastapi
-uvicorn[standard]
-SQLAlchemy>=2.0
-alembic
-psycopg2-binary
-python-dotenv
-requests
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+gspread>=5.11.0
+requests>=2.31.0
+python-dotenv>=1.0.0
